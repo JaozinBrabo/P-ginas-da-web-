@@ -1,6 +1,16 @@
 body {
-    background-color: rgb(222, 117, 78);
+    background-color:orangered
 }
 #logo {
-    
+    width: 100%;
+}
+.principal {
+    background:#cccccc ;
+    padding: 30px
+}
+.titulo principal{
+    padding-left: 20px;
+}
+.titulo centralizado{
+    text-align: center;
 }
